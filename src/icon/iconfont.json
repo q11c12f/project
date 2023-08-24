@@ -1,0 +1,72 @@
+{
+  "id": "4221081",
+  "name": "project1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "服务平台",
+  "glyphs": [
+    {
+      "icon_id": "713433",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "4450051",
+      "name": "扫描",
+      "font_class": "saomiao",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "4881673",
+      "name": "项目周期-01",
+      "font_class": "xiangmuzhouqi-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10194310",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "12329535",
+      "name": "发票管理",
+      "font_class": "fapiaoguanli",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "16910641",
+      "name": "身份认证",
+      "font_class": "shenfenrenzheng",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "18309255",
+      "name": "企业管理",
+      "font_class": "qiyeguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "26841823",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "5233421",
+      "name": "云服务2",
+      "font_class": "tubiao-",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
